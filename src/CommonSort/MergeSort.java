@@ -1,4 +1,4 @@
-package Day2;
+package CommonSort;
 
 public class MergeSort {
     public void mergeSort(int[] array){
