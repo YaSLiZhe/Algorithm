@@ -1,3 +1,5 @@
+package CommonSort;
+
 public class SelectionSort {
     public void selectSort(int[] nums){
         //

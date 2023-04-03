@@ -1,4 +1,4 @@
-package CommonSort;
+package AdvancedSort;
 
 public class RecursionFindMaxVar {
   public int find(int[] array){

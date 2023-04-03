@@ -1,3 +1,5 @@
+package CommonSort;
+
 public class InsertionSort {
     public void insertSort(int[] nums){
         int length = nums.length;

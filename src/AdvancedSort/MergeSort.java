@@ -1,4 +1,4 @@
-package CommonSort;
+package AdvancedSort;
 
 public class MergeSort {
     public void mergeSort(int[] array){

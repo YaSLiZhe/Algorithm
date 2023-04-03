@@ -1,4 +1,4 @@
-package CommonSort;
+package AdvancedSort;
 //[3,5,6,2,4,4]
 //[]
 public class NewQuickSort {

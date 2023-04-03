@@ -1,4 +1,6 @@
-import CommonSort.NewQuickSort;
+package CommonSort;
+
+import AdvancedSort.NewQuickSort;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");

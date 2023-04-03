@@ -1,3 +1,5 @@
+package CommonSort;
+
 public class BubbleSort {
     //good
     public void bubbleSort(int[] nums){
